@@ -1,13 +1,13 @@
 #NOTES ON ORTHOGRAPHY
 
 As Vèneto varieties have different ways to pronunce the same word
-<span style="font-variant: small-caps">BALA-BAEA</span>,
-<span style="font-variant: small-caps">FORSA-FORZHA</span>,
-<span style="font-variant: small-caps">VOIA-VOGIA</span>,
-<span style="font-variant: small-caps">MEXO-MEDHO-MEZO</span>,
-<span style="font-variant: small-caps">TOCO-TOC</span>,
-<span style="font-variant: small-caps">MONTE-MONT</span>,
-<span style="font-variant: small-caps">CHEO LÀ-CUEO LÀ-CHELO LÀ-CUELO LÀ</span>, we had
+<span class="small-caps">BALA-BAEA</span>,
+<span class="small-caps">FORSA-FORZHA</span>,
+<span class="small-caps">VOIA-VOGIA</span>,
+<span class="small-caps">MEXO-MEDHO-MEZO</span>,
+<span class="small-caps">TOCO-TOC</span>,
+<span class="small-caps">MONTE-MONT</span>,
+<span class="small-caps">CHEO LÀ-CUEO LÀ-CHELO LÀ-CUELO LÀ</span>, we had
 to dopt an orthography that allows people to read the same word with different pronunciations
 (according to the reader’s custom) although maintaining a unique orthography.
 
