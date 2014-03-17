@@ -8,9 +8,9 @@ both in Vèneto and abroad are beginning to prefer the language of the majority 
 
 ##Dependencies
 
-* pandoc: <a href="http://johnmacfarlane.net/pandoc/installing.html">http://johnmacfarlane.net/pandoc/installing.html</a>  
-* kindlegen: <a href="http://www.amazon.com/gp/feature.html?docId=1000765211">http://www.amazon.com/gp/feature.html?docId=1000765211</a>  
-* calibre: <a href="http://calibre-ebook.com/download">http://calibre-ebook.com/download</a>
+* [pandoc](http://johnmacfarlane.net/pandoc/installing.html)  
+* [kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211)  
+* [calibre](http://calibre-ebook.com/download)
 
 ##Usage
 
@@ -26,7 +26,7 @@ Manual Gramaticałe Xenerałe de ła Łéngua Vèneta e łe só varianti
 MICHELE BRUNELLI (Bassano del Grappa, 1976): laureato in Lingue e Scienze del
 Linguaggio all’ Università Ca’ Foscari di Venezia. Collaboratore del sito internazionale
 www.orbilat.com per la parte veneta e catalana, da anni cura anche www.sitoveneto.com
-un sito di lingua e cultura veneta, diventato www.sitoveneto.org. La prima pubblicazione
+un sito di lingua e cultura veneta, diventato [www.sitoveneto.org](www.sitoveneto.org). La prima pubblicazione
 “Parlè Vèneto” risale all’anno 1996; dopo molti anni di attività su internet è tornato a
 scrivere su carta con il libro a dialogo “Ciacolada su la Łéngua Vèneta” nel 2004.
 
@@ -43,8 +43,8 @@ vera conoscenza generale di tutta la nostra lingua.
 
 MICHELE BRUNELLI (Basàn, 1976): el se ga łaureà in «Lingue e Scienze del Linguaggio» a
 l’Università Ca’ Fóscari de Venesia. Cołaborador del sito internazsionałe www.orbilat.com
-par ła parte vèneta e catałana, da ani el tien in pie anca www.sitoveneto.com un sito de
-łéngua e cultura vèneta, da póco trasformà in www.sitoveneto.org . Ła prima publicazsion
+par ła parte vèneta e catałana, da ani el tien in pie anca [www.sitoveneto.com](www.sitoveneto.com) un sito de
+łéngua e cultura vèneta, da póco trasformà in [www.sitoveneto.org](www.sitoveneto.org). Ła prima publicazsion
 “Parlè Vèneto” ła xe del 1996; dopo un saco de łavuri su internet l’è tornà scrìvar da nóvo
 su carta ’ntel 2004 col łibro a diàłogo “Ciacolada su la Łéngua Vèneta”.
 
@@ -59,10 +59,10 @@ question e pasarghe anca rente int’un cólpo d’ocio, dàndoghe a tuti ła po
 confrontar ła só variante vèneta co łe altre che gh’è intorno e promovendo cusì na vera
 conosenzsa xenerałe de tuta ła nostra łéngua. 
 
-##About the Maintainer
+##About the Maintainer:
 
-LUIS LARREA (Chicago 1983): Married Elizabeth Piloni of Chipilo, Puebla. Father to daughter, 
+LUIS LARREA (Chicago, 1983): Married to Elizabeth Piloni of Chipilo, Puebla. Father to daughter, 
 Aria Larrea. He received his B.A. in Computer Science from DePaul University minoring in 
-Japanese Language. This emphasis on multicultural study has led to exploration of his 
-newfound families heritage. His recent experiences has moved him to see ethnic identity 
-as a critical part in the liberation of both heart and soul.
+Japanese Language. His multicultural study led to exploration of his newfound families heritage. 
+Recent experiences moved him to see ethnicity as a critical part in the liberation of both heart 
+and soul.
