@@ -6,7 +6,20 @@ love and admiration of the richness and beauty diversity of spoken language brin
 that Vèneto is a language not spoken outside of family circles and is in risk of becoming a dying language as children 
 both in Vèneto and abroad are beginning to prefer the language of the majority over that of their ancestry.
 
+##Dependencies
+
+* pandoc: <a href="http://johnmacfarlane.net/pandoc/installing.html">http://johnmacfarlane.net/pandoc/installing.html</a>  
+* kindlegen: <a href="http://www.amazon.com/gp/feature.html?docId=1000765211">http://www.amazon.com/gp/feature.html?docId=1000765211</a>  
+* calibre: <a href="http://calibre-ebook.com/download">http://calibre-ebook.com/download</a>
+
+##Usage
+
+```$ cd en  
+$ pandoc -S --epub-metadata=metadata.xml -o veneto.epub title.txt */*.md
+```
+
 ##About the Author:
+
 Manual Gramaticałe Xenerałe de ła Łéngua Vèneta e łe só varianti
 
 MICHELE BRUNELLI (Bassano del Grappa, 1976): laureato in Lingue e Scienze del
