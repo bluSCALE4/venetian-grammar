@@ -1,0 +1,57 @@
+/* This defines styles and classes used in the book */
+body { margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+table {
+    border-collapse: collapse;
+}
+table tr th.header {
+    padding: 3px 0;
+}
+table tr th {
+    padding: 0 3px;
+    vertical-align: center;
+    text-align: center;
+}
+table tr th.highlight-lightest {
+    background-color: #DDDDDD;
+}
+table tr th.highlight-lighter {
+    background-color: #CCCCCC;
+}
+table tr th.highlight {
+    background-color: #BBBBBB;
+}
+table tr td {
+    text-align: center;
+    padding: 3px 0;
+}
+table tr td.odd-alt {
+    background-color: #EEEEEE;
+}
+table tr td.even {
+    background-color: #EEEEEE;
+}
+table tr td.even-alt {
+    background-color: #DDDDDD;
+}
+
+table tr td.left, table tr th.left {
+    text-align: left;
+    padding-right: 3px;
+}
+span.small-caps {
+    font-size: 0.75em;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
