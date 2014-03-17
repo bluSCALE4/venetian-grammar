@@ -14,8 +14,9 @@ both in Vèneto and abroad are beginning to prefer the language of the majority 
 
 ##Usage
 
-```$ cd en  
-$ pandoc -S --epub-metadata=metadata.xml -o veneto.epub title.txt */*.md
+```  
+$ cd en  
+$ pandoc -S --epub-metadata=metadata.xml -o veneto.epub title.txt */*.md  
 ```
 
 ##About the Author:
