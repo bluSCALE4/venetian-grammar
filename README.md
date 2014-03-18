@@ -1,16 +1,22 @@
-#Venetan: A Grammar of the Vèneto Dialects
+#Venetan: A Grammar of the Veneti Dialects
 
-This is an effort to create an introductory book to the Vèneto language for the express purpose of perpetuating the Veneto 
-language into the 21st century for the betterment of those of Venetian decent, their families and any persons that with 
-love and admiration of the richness and beauty diversity of spoken language brings to humanity. It is my understanding 
-that Vèneto is a language not spoken outside of family circles and is in risk of becoming a dying language as children 
-both in Vèneto and abroad are beginning to prefer the language of the majority over that of their ancestry.
+This is an effort to create an introductory book to the Vèneto language for the express purpose of perpetuating the Vèneto 
+language into the 21st century for the betterment of those of Venetan decent, their families and any persons that with 
+love and admiration of the richness and beauty diversity of language and culture brings to humanity. It is my understanding 
+that Vèneto is a language not spoken outside of family circles outside of Vèneto and is in risk of becoming only a spoken 
+language. An emphasis will be placed in using a unified orthography.
+
+##Background
+
+Most of Veneti, when writing in [V]enetan, just reproduce their local variety of this language so that opposers of official 
+recognition can easily say that "The [V]enetan language doesn't exist nor can be used, but a lot of [V]enetan dialects exist 
+and therefore there is not a standard [V]enetan language to recognize by law".[^1](#footnotes)
 
 ##Dependencies
 
-* [pandoc](http://johnmacfarlane.net/pandoc/installing.html)  
-* [kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211)  
-* [calibre](http://calibre-ebook.com/download)
+* [pandoc](http://johnmacfarlane.net/pandoc/installing.html) - Document conversation tool  
+* [kindlegen](http://www.amazon.com/gp/feature.html?docId=1000765211) - For converting epub to mobi  
+* [calibre](http://calibre-ebook.com/download) - For previewing mobi files
 
 ##Usage
 
@@ -43,7 +49,7 @@ vera conoscenza generale di tutta la nostra lingua.
 
 MICHELE BRUNELLI (Basàn, 1976): el se ga łaureà in «Lingue e Scienze del Linguaggio» a
 l’Università Ca’ Fóscari de Venesia. Cołaborador del sito internazsionałe www.orbilat.com
-par ła parte vèneta e catałana, da ani el tien in pie anca [www.sitoveneto.com](www.sitoveneto.com) un sito de
+par ła parte vèneta e catałana, da ani el tien in pie anca [www.sitoveneto.org](www.sitoveneto.org) un sito de
 łéngua e cultura vèneta, da póco trasformà in [www.sitoveneto.org](www.sitoveneto.org). Ła prima publicazsion
 “Parlè Vèneto” ła xe del 1996; dopo un saco de łavuri su internet l’è tornà scrìvar da nóvo
 su carta ’ntel 2004 col łibro a diàłogo “Ciacolada su la Łéngua Vèneta”.
@@ -66,3 +72,6 @@ Aria Larrea. He received his B.A. in Computer Science from DePaul University min
 Japanese Language. His multicultural study led to exploration of his newfound families heritage. 
 Recent experiences moved him to see ethnicity as a critical part in the liberation of both heart 
 and soul.
+
+##Footnotes<a name="footnotes"/>
+[^1]: [Sito Veneto](http://www.sitoveneto.org/basics.html)

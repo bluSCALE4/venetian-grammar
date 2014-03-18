@@ -3,5 +3,8 @@
 *.iml
 *.iws
 
+# eBooks
+veneto.*
+
 # Mac
 .DS_Store

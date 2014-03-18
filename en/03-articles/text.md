@@ -42,7 +42,7 @@ as will be clear later.
         <td class="even-alt">'nte le</td><td class="even">par le</td>
     </tr>
     <tr>
-        <th rowspan="2" class="highlight-lightest left">**Indefin.**</th>
+        <th rowspan="2" class="highlight-lighter left">**Indefin.**</th>
         <td class="left">_m. sg._</td>
         <td>un (n')</td>
         <td>de un</td>
